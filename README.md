@@ -1,3 +1,3 @@
 # Screping Telegram
 ---
-Screping Telegram Group with Python using API from MyTelegram.org
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EricoCoutoJr/ScrepingTelegram/blob/master/ScrepingTelegram.py)
