@@ -1,3 +1,3 @@
 # Screping Telegram
 ---
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EricoCoutoJr/ScrepingTelegram/blob/master/ScrepingTelegram.py)
+Usando API do Telegram para ler a lista de  participantes de um grupo
